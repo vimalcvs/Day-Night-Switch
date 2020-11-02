@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Customize your PrimaryColor here. -->
+    <color name="colorPrimary">#FAFAFA</color>
+    <color name="colorPrimaryDark">#FAFAFA</color>
+    <color name="colorAccent">#2962FD</color>
+
+    <!-- Customize your icon here. -->
+    <color name="iconDrawableTint">#ff808080</color>
+    <color name="iconToolBarTint">#666666</color>
+
+    <!-- Customize your text here. -->
+    <color name="tabTextColor">#666666</color>
+</resources>

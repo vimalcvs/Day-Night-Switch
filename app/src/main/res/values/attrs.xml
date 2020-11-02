@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Customize your icon here. -->
+    <attr name="iconToolBarTint" format="reference|color" />
+    <attr name="iconDrawableTint" format="reference|color" />
+
+
+    <!-- Customize your text here. -->
+    <attr name="tabTextColor" format="reference|color" />
+    <attr name="textColorBlack" format="reference|color" />
+    <attr name="textColorHint" format="reference|color" />
+    <attr name="textColorPrimary" format="reference|color" />
+    <attr name="textColorSecondary" format="reference|color" />
+    <attr name="textColorThird" format="reference|color" />
+    <attr name="textColorWhite" format="reference|color" />
+
+</resources>
