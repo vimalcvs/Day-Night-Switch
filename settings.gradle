@@ -1,1 +1,3 @@
-include ':switch-library', ':app'
+include ':library'
+include ':app'
+rootProject.name = "My Application"
