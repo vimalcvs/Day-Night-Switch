@@ -12,7 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="UUQDU19117000248" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -34,6 +34,9 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="UUQDU19117000248" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-03T02:54:46.028Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -108,5 +111,11 @@
       <updated>1604338897925</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="164" key="#PSD" timestamp="1604375710118">
+      <screen x="0" y="0" width="1473" height="864" />
+    </state>
+    <state x="254" y="164" key="#PSD/0.0.1473.864@0.0.1473.864" timestamp="1604375710118" />
   </component>
 </project>
