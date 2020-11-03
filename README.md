@@ -1,5 +1,5 @@
 # Day Night Switch Button App
-[![](https://jitpack.io/v/vimalcvs/DayNightSwitch.svg)](https://jitpack.io/#vimalcvs/DayNightSwitch)
+[![](https://jitpack.io/v/vimalcvs/Day-Night-Switch.svg)](https://jitpack.io/#vimalcvs/Day-Night-Switch)
 
 A cute day night switch for android
 Inspired from this gif :
@@ -20,7 +20,7 @@ Step 2. Add the dependency
 
 ```
 	dependencies {
-	        implementation 'com.github.vimalcvs:DayNightSwitch:1.0.0'
+	        implementation 'com.github.vimalcvs:Day-Night-Switch:1.0.2'
 	}
 ```
 
@@ -29,7 +29,7 @@ Step 2. Add the dependency
 just add it to your xml layout file
 
 ```xml
-    <com.vimalcvs.dnswitch.DayNightSwitch
+   < com.vimalcvs.switchdn.DayNightSwitch
         android:id="@+id/switch_item"
         android:layout_width="63dp"
         android:layout_height="33dp"
